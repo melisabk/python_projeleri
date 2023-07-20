@@ -1,3 +1,3 @@
-# python_projeleri
-Yapılan projeleri derlemek adına açıldı. 
-SistersLab Python Akademisi tarafından verilen ödevler ve projeler için kullanılacaktır.
+# python_projects
+
+It will be used for assignments and projects given by the SistersLab Python Academy.
